@@ -7,7 +7,7 @@ India has long and ancient history with medicinal herbs and their mixes for a lo
 Here's a link to the video showing how it all works. 
 <hr>
 
-[![AlchemiX](https://img.youtube.com/vi/lo96rqAYCg8/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![AlchemiX](https://img.youtube.com/vi/lo96rqAYCg8/maxresdefault.jpg)](https://www.youtube.com/watch?v=lo96rqAYCg8)
 
 
 <hr>
